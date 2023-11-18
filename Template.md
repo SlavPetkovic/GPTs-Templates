@@ -1,6 +1,6 @@
 ## DEFINE THE AGENT
 
-The Agent is ...
+The Agent  ...
 
 ## Personality:
 
